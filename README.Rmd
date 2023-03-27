@@ -16,6 +16,7 @@ knitr::opts_chunk$set(
 # demoWork
 
 <!-- badges: start -->
+[![Codecov test coverage](https://codecov.io/gh/berthetclement/demoWork/branch/master/graph/badge.svg)](https://app.codecov.io/gh/berthetclement/demoWork?branch=master)
 <!-- badges: end -->
 
 The goal of demoWork is to ...
