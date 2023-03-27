@@ -1,9 +1,9 @@
 Package: demoWork
-Title: What the Package Does (One Line, Title Case)
+Title: Private work
 Version: 0.0.0.9000
 Authors@R: 
-    person("Clement", "Berthet", , "clement.berthet013@gmail.com", role = c("aut", "cre"))
-Description: github_action process template
+    person("Clement", "Berthet", ,"clement.berthet013@gmail.com", role = c("aut", "cre"))
+Description: Github_action process template, dev ops, coverage and more. Make badge and code life cycle.
 License: GPL (>= 3)
 Encoding: UTF-8
 Language: eng
@@ -13,3 +13,6 @@ Suggests:
     covr,
     testthat (>= 3.0.0)
 Config/testthat/edition: 3
+Imports: 
+    assertthat,
+    data.table
