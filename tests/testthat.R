@@ -8,5 +8,6 @@
 
 library(testthat)
 library(demoWork)
+library(data.table)
 
 test_check("demoWork")
